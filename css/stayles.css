@@ -1,0 +1,57 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+    color: rgb(199, 53, 53);
+    text-align: center;
+    text-decoration: darkcyan;
+    
+  }
+  nav ul li {
+    display: inline;
+    margin-left: 5px;
+  }
+section {
+  display:inline ;
+
+    height: 100px;
+    width: 25%;
+    margin: 10px;
+
+} 
+
+p{ color:rgb(177, 56, 56);
+
+    size: 100px; }
+
+  img{
+
+    margin-left: 10px;
+    margin-bottom: 10px ; 
+
+   width: 150px;
+   height: 200px ;
+    size: 0em;
+  }
+  /* }
+   #koora{
+      width: 250px;
+      height: 300px;
+      image-orientation: flip;
+
+  }
+  .leu{
+
+    width: 100px;
+    height: 200px;
+    border: darkorange 4px yellow;
+    align-self:  ;
+    
+  }  */
+  p{
+
+    text-align: center;
+    font-family: Verdana;
+    
+  }
